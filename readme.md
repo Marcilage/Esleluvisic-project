@@ -1,8 +1,8 @@
 # Espectro eletromagnético - Luz Visível e Suas Cores.
 abreviação de: **Esleluvisic**<br>
 
-É um projeto, meu que irei fazer uma paleta de cores das 400nm do [Espectro de Luz Visível](https://en.m.wikipedia.org/wiki/Light)<sup>_Wiki English_</sup><br>
-> Com as **Espaço de Cores** ou suas codificações como:
+É um projeto meu que irei fazer uma paleta de cores dos 400 nm do [Espectro de Luz Visível](https://en.m.wikipedia.org/wiki/Light)<sup>_Wiki English_</sup><br>
+> Com os **espaços de Cores** ou suas codificações como:
 
 * nm (é claro);
 * Frequência (THz)*;
